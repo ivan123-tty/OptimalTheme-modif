@@ -202,18 +202,6 @@ div[id="user-context-call"],
 	border-radius: 20px !important;
 }
 
-/* behind message box gone */
-.scroller-kQBbkU 
-{
-    margin-bottom: -100px;
-    padding-bottom: 100px;
-}
-
-.form-3gdLxP:before 
-{
-    display: none;
-}
-
 .theme-light .scrollableContainer-15eg7h
 {
     background-color: #e0e0e077 !important;
