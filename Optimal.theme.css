@@ -214,22 +214,6 @@ div[id="user-context-call"],
     display: none;
 }
 
-.channelTextArea-1FufC0
-{
-    background: transparent !important;
-}
-
-/* blur message box bg */
-.scrollableContainer-15eg7h
-{
-    background-color: rgba(var(--bg3), 0.5) !important;
-    -webkit-backdrop-filter: blur(4px);
-    -o-backdrop-filter: blur(4px);
-    -moz-backdrop-filter: blur(4px);
-    backdrop-filter: blur(4px);
-    filter: drop-shadow(0rem 0rem 0.5rem rgba(0, 0, 20, 0.2));
-}
-
 .theme-light .scrollableContainer-15eg7h
 {
     background-color: #e0e0e077 !important;
